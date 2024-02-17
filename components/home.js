@@ -1,16 +1,16 @@
 import './style.css'
 
 const me = {
-    image: './assets/lucas-perfil.jpg',
+    image: 'assets/lucas-perfil.jpg',
     name: 'Lucas Emanuel Telis Espindola',
     info: 'Estudiante en ThePowerMBA // Futuro desarrollador web',
     description: 'Hola! soy Lucas, actualmente tengo 20 años, nací en el año 2003 en Uruguay pero hace un año estoy residiendo en España trabajando(Hosteleria) y estudiando(Desarrollo web).'
 };
 
 const links = {
-    githubLogo: './assets/logotipo-de-github.png',
+    githubLogo: 'assets/logotipo-de-github.png',
     githubHref: 'https://github.com/Lucas-Telis',
-    linkedinLogo: './assets/linkedin.png',
+    linkedinLogo: 'assets/linkedin.png',
     linkedinHref: 'https://www.linkedin.com/in/lucas-emanuel-telis-espindola-288667232/',
 };
 
