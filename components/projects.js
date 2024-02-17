@@ -2,7 +2,7 @@ import './style.css'
 
 const proyectos = [
     {
-        image:'assets/db.png',
+        image:'https://github.com/Lucas-Telis/project-three/main/assets/db.png',
         name: 'Dragon Ball-GOKU',
         link: 'https://dragonball.fandom.com/es/wiki/Son_Goku',
     },
